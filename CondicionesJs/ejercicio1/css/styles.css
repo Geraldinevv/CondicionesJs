@@ -1,0 +1,14 @@
+.imagen {
+   display: block;
+   text-align: center;
+   margin: auto; 
+   background-color: black;
+}
+
+#ferrari1 {
+    cursor: pointer;
+}
+
+.border-red {
+    border: 2px solid red;
+}

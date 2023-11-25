@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: aqua;
+    margin-top: 2px; 
+}
+
+.container {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-top: auto;
+}
+
+.sticker {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin-top: 1px;
+}
+
+.sticker img {
+    width: 100%;
+    height: auto;
+}
+
+.cantidad {
+    text-align: center;
+}
+
+.input-sticker {
+    width: 50px;
+}
+
+.Verificar {
+    text-align: center;
+}
+
+#verifyButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: orange;
+}
